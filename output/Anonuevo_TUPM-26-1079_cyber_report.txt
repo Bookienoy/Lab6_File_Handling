@@ -1,0 +1,23 @@
+CYBERSECURITY INCIDENT REPORT (2024)
+Student: Anonuevo (TUPM-26-1079)
+==================================================
+
+Total Dataset Records: 3000
+Incidents in 2024: 299
+Total Financial Loss: $15,434.29 Million
+Average Financial Loss: $51.62 Million
+
+Attack Type Breakdown:
+ - Ransomware: 53
+ - DDoS: 54
+ - Phishing: 62
+ - Malware: 43
+ - Man-in-the-Middle: 47
+ - SQL Injection: 40
+
+Top 5 Costliest Incidents:
+ 1. Loss: $99.99M | Type: DDoS
+ 2. Loss: $99.31M | Type: SQL Injection
+ 3. Loss: $99.28M | Type: DDoS
+ 4. Loss: $99.03M | Type: Ransomware
+ 5. Loss: $98.95M | Type: Phishing
