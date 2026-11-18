@@ -1,0 +1,5 @@
+Student: Anonuevo
+Student ID: TUPM-26-1079
+Seed digit: 9
+ID sum: 25
+Verification value: 209
